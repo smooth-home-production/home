@@ -1,50 +1,21 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/13490001/97367217-f8363e00-1865-11eb-8f20-aa565a75df2e.gif">
+</p>
 
-OUR CAPABILITIES
-Digital Strategy
+Hi, I'm Kat (she/her)—a senior product designer at GitHub working on open source tools. Previously worked on GitHub Sponsors and Community & Safety. 💕 I care about redistributing power, inclusive design, digital communities, and mindfulness. 
 
-Kami percaya bahwa kesuksesan secara kreatif bukan hanya tentang estetika, tetapi perlu mempersiapkan tujuan bisnis yang terukur seperti penjualan, konversi, loyalitas atau pengalaman pengguna yang memuaskan.
-Digital Campaigns & Social Media
+## 📌 Pinned
+| | |
+| :--- | :--- |
+| 💖 [Magical Girl Lifestyle newsletter](https://magicalgirl.substack.com) | 🔪 [On all that fuckery](https://www.tinykat.cafe/on-all-that-fuckery) |
 
-Media sosial menjadi bagian yang tidak terpisahkan dari setiap kampanye pemasaran. Kami memberikan konsultasi strategis tentang bagaimana brand dapat memposisikan diri di media sosial untuk melibatkan pelanggan.
-UX Design & Usability
+## Get in touch
+- Twitter: https://twitter.com/katfukui
+- Blog: https://tinykat.cafe
 
-Intuitif, cerdas, dan emotif desain adalah konsep-konsep dasar dari segala sesuatu yang kami lakukan untuk menciptakan pengalaman pengguna dengan standar internasional dan kesuksesan brand komersial.
-Corporate Website & E-commerce
-
-Setelah bertahun-tahun mengembangkan website perusahaan dan E-commerce, kami telah memperoleh pemahaman tentang alasan pelanggan mencari informasi dan membeli secara online untuk menyukseskan website.
-Web App Development
-
-Kami antusias dalam mengikuti perkembangan teknologi terkini terutama cloud technology, sehingga kami melakukan evaluasi rutin untuk pengembangan aplikasi web dari segi fitur teknis, support, dan komunitas.
-Mobile App Development
-
-Aplikasi mobile selalu identik dengan interaksi yang inovatif, singkat, dan menyenangkan. Kami menawarkan aplikasi dan website mobile sebagai solusi yang terus berkembang untuk memenuhi kebutuhan pelanggan di masa kini.
-CLIENTS CHOOSE TO WORK WITH US
-ABOUT US
-Kami adalah perusahaan digital agency berbasis di Semarang, Jawa Tengah, Indonesia yang telah bekerja dengan pihak perseorangan, perusahaan, dan pemerintahan dengan skala regional, nasional, serta internasional.
-Kami membantu memaksimalkan potensial perusahaan melalui Digital Strategy, Digital Application, dan Digital Marketing.
-Contact Us
-
-    Mataram Plaza B-5,
-    Jalan Mt. Haryono No.427-429, Jagalan, Semarang Tengah,
-    Kota Semarang, Jawa Tengah,
-    Indonesia, 50136
-
-    Senin – Jumat (8:00 – 17:00)
-
-    +6224.8604.1432
-
-    hi@rectmedia.com
-
-Explore Categories
-
-    Berita Teknologi (62)
-    Design (11)
-    Digital Marketing (62)
-    Domain Hosting (5)
-    Programming (12)
-    RECTmedia News (10)
-
-Digital marketing GRATIS untuk Anda!
-Bagi Anda yang daftar sekarang, Anda akan terdaftar di mailing list dan mendapatkan informasi-informasi terbaru mengenai digital marketing. Silahkan masukkan email Anda.
-Email Address
-Credits Logo Copyright © 2008 - 2021. All Rights Reserved. Semarang, Jawa Tengah, Indonesia.
+## Oakland orgs to donate to #BlackLivesMatter
+- [People's Breakfast Oakland](https://www.hellablackpod.com/pbo)
+- [Black Earth Farms](https://www.blackearthfarms.com/)
+- [Anti Police Terror Project](https://www.antipoliceterrorproject.org/)
+- [Ella Baker Center for Human Rights](https://ellabakercenter.org/)
+- [Color of Change](https://colorofchange.org/)
