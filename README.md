@@ -264,3 +264,13 @@ RECTmedia sangat menghargai kegembiraan dan gairah dalam hidup para crew dan kli
 ![](https://rectmedia.com/wp-content/uploads/2014/06/leader.jpg)
 
 Ketika memasuki kantor RECTmedia, klien akan menemukan berbagai kesibukan yang dilakukan crew kami dalam mengembangkan solusi inovatif untuk berbagai pribadi terkenal, organisasi pemerintah, dan perusahaan di berbagai industri. Kami tetap mengikuti perkembangan digital dan menggunakan teknologi terbaru, sehingga klien kami tetap dapat mempertahankan brand mereka di publik. Kami juga secara aktif memberikan kontribusi terhadap perkembangan komunitas dan institusi di Semarang untuk meningkatkan appresiasi di bidang digital dan desain.
+Kami percaya bahwa kesuksesan secara kreatif bukan hanya tentang estetika, tetapi perlu mempersiapkan tujuan bisnis yang terukur seperti penjualan, konversi, loyalitas atau pengalaman pengguna yang memuaskan.
+Fokus pada Strategi dari Hari Pertama
+
+Kami selalu memulai sebuah proyek dengan memahami tujuan akhir. Bagaimana kami bisa mengukur keberhasilan? Bagaimana kami bisa memaksimalkan tingkat konversi situs web dan target penjualan? Tujuan akhir akan mendasari semua aspek pelaksanaan proyek dari perencanaan ke desain, pengembangan ke peluncuran website, dan SEO.
+SEO dan SEM
+
+Kami adalah spesialis yang berfokus pada pencapaian peringkat teratas di Google, Yahoo, dan Bing. Dengan menggunakan praktek terbaik dan strategi pembuatan link, kami mencapai hasil yang luar biasa dalam pencarian organik. Kami memiliki kebijakan no-spam untuk memastikan pekerjaan kami memiliki efek jangka panjang dan berkelanjutan.
+Analisis dan KPIs
+
+Setiap aspek dari situs web dan kampanye digital dapat dilaporkan pada masa kini. Sebagian besar yang kami lakukan adalah menerapkan alat yang tepat untuk mengukur KPI dan menyajikan laporan kepada klien dengan cara sederhana. Angka statistik tidak pernah berbohong dan kami tentunya bertanggung jawab atas strategi yang direkomendasikan.
